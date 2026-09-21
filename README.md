@@ -29,8 +29,3 @@ Behavioral simulation has been thoroughly verified in the Vivado simulator using
 * **Hardware Utilization:** (Pending Slice LUTs and CARRY4 logic count)
 * **Power Consumption:** (Pending Dynamic and Static power analysis in Watts)
 * **Critical Path Delay:** (Pending maximum combinational data path delay in nanoseconds)
-
-## Author
-**Upamanyu Parasar**  
-B.Tech, Electronics and Communication Engineering  
-National Institute of Technology, Silchar
